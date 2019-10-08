@@ -1,0 +1,14 @@
+{
+    "port": 3000,
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": ""
+    },
+    "secret":"",
+    "authorization": "",
+    "baseURL": "https://opendata.cwb.gov.tw/api",
+    "URL36h": "/v1/rest/datastore/F-C0032-001",
+    "URL1w": "/v1/rest/datastore/F-D0047-091"
+}
